@@ -111,6 +111,7 @@ body::-webkit-scrollbar-thumb {
 
 .nav-link svg {
   min-width: 1.8rem;
+  max-width: 1.8rem;
   margin: 0 1rem;
 }
 
